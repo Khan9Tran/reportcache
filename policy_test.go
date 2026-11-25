@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Khan9/reportcache"
+	"github.com/Khan9Tran/reportcache"
 )
 
 func TestGenerationPolicy(t *testing.T) {

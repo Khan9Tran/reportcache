@@ -6,9 +6,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Khan9/reportcache"
-	"github.com/Khan9/reportcache/adapters/memory"
-	"github.com/Khan9/reportcache/canonical"
+	"github.com/Khan9Tran/reportcache"
+	"github.com/Khan9Tran/reportcache/adapters/memory"
+	"github.com/Khan9Tran/reportcache/canonical"
 )
 
 // DailyRevenue là cấu trúc dữ liệu báo cáo do ứng dụng định nghĩa.

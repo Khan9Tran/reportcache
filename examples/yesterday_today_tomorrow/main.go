@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Khan9/reportcache"
-	"github.com/Khan9/reportcache/adapters/memory"
+	"github.com/Khan9Tran/reportcache"
+	"github.com/Khan9Tran/reportcache/adapters/memory"
 )
 
 // SmartReportPolicy phân chia khoảng thời gian thành 3 vùng rõ rệt:

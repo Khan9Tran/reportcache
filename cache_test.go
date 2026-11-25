@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Khan9/reportcache"
-	"github.com/Khan9/reportcache/adapters/memory"
+	"github.com/Khan9Tran/reportcache"
+	"github.com/Khan9Tran/reportcache/adapters/memory"
 )
 
 type RevenuePayload struct {

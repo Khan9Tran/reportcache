@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Khan9/reportcache"
+	"github.com/Khan9Tran/reportcache"
 )
 
 func TestExecutorContextCancellation(t *testing.T) {

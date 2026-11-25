@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Khan9/reportcache"
+	"github.com/Khan9Tran/reportcache"
 )
 
 func TestFixedDurationBucket(t *testing.T) {

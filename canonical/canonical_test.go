@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Khan9/reportcache/canonical"
+	"github.com/Khan9Tran/reportcache/canonical"
 )
 
 func TestValidateNonEmptySlice(t *testing.T) {

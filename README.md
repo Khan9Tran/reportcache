@@ -115,6 +115,6 @@ See [AGENTS.md](AGENTS.md), [architecture](docs/architecture.md), and [roadmap](
 
 - Repository: `reportcache`
 - Go package: `reportcache`
-- Suggested module path: `github.com/Khan9/reportcache`
+- Suggested module path: `github.com/Khan9Tran/reportcache`
 
 The module path is provisional. Verify the actual Git hosting account name and repository URL before publishing or tagging a release.

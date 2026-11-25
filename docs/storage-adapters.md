@@ -41,8 +41,8 @@ Redis may be a useful optional adapter because it supports fast key-value access
 Do not make Redis mandatory. Keep the adapter separate, for example:
 
 ```text
-github.com/Khan9/reportcache
-github.com/Khan9/reportcache/adapters/redis
+github.com/Khan9Tran/reportcache
+github.com/Khan9Tran/reportcache/adapters/redis
 ```
 
 Before implementing Redis support, decide:

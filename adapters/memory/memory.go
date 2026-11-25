@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Khan9/reportcache"
+	"github.com/Khan9Tran/reportcache"
 )
 
 // Store is an in-memory, thread-safe implementation of reportcache.CacheStore[T].
